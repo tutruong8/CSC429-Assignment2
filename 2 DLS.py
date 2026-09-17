@@ -1,6 +1,4 @@
 #DLS Grid Implementation using Python
-from collections import deque
-from matplotlib.pyplot import grid
 
 maze = [
     ['0','1','1','1','1','1'],
